@@ -35,6 +35,7 @@ Scripts are ready to run visit wiki page to read commands.
 
 * Create a MYSQL database with (database name/user/password is named twitter and host is localhost).
 * If you want to change above credentials then visit src/misc/ConstVars.java for (database name/user/password) and src/misc/MysqlDB.java for (host).
+* Import twitter.sql in created database.
 * Build the project with your favourit editor and make jar file.
 
 
